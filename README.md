@@ -2,8 +2,9 @@
 
 ## TEAM
 
-Team Title: TechTitans
-Team Members:
+# Team Title: TechTitans
+
+# Team Members:
 1. Shristi Sharma  (0131CS221191)
 2. Sushmita Kumari (0131CS221210)
 3. Raushan Kumar   (0131CS221154)
