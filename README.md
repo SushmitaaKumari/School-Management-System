@@ -1,7 +1,5 @@
 # School Management System 
 
-## TEAM
-
 # Team Title: TechTitans
 
 # Team Members:
