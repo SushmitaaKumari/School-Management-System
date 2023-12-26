@@ -99,13 +99,17 @@ void searchStudent(vector<Student>& students){
     cout<<"\n\n Enter Rollno:";
     cin>>rollno;
 
-
+    bool found = false;
     for(int i=0;i<students.size();i++){
         if(students[i].getRollno()== rollno){
             cout<<"\n\n \t\t-------Student Found-------"<<endl;
             students[i].displayStudent();
-            return;
+            found = true;
+            break;
         }
+    }
+    if(! found){
+        cout<<"\n\n \t\t------Student Not Found------"<<endl;
     }
 }
 
